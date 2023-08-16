@@ -1,0 +1,10 @@
+[Arduino Nano]
+
+- Type: MCU
+- Brand: Arduino Nano FT232RL
+- MCU: ATmega328P-AU (AVR)
+- Interface: FT232R USB UART
+- Tools:
+  + avrdude (sudo apt install avrdude)
+- Docs:
+  + https://ftdichip.com/wp-content/uploads/2020/08/AN_220_FTDI_Drivers_Installation_Guide_for_Linux-1.pdf

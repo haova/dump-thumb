@@ -1,0 +1,4 @@
+venv
+outputs/*
+!outputs/.keep
+__pycache__
